@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zCf9gkovEIgrn+Ne99ZqSJCkp3RRjFBXXAAVh0L6VHC0XhVyzLxxcAedc9flHxppl8/v0WIbtVIMdJT/8nmlNw==",
+  "dgSpecHash": "IDn71aahiHMxUEzgMuaycZLOsLzdpOwm+HZjR/ogo7xrlocFJii5DQ6unW8kJOqCbvfevrvebXZLwC3Wz0xbcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\урфу\\game\\MyGame\\MyGameContent\\MyGameContent.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\урфу\\game\\Mystery\\MyGame\\MyGameContent\\MyGameContent.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\assimpnet\\4.1.0\\assimpnet.4.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

@@ -4961,11 +4961,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\урфу\\game\\MyGame\\MyGameContent\\MyGameContent.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\урфу\\game\\Mystery\\MyGame\\MyGameContent\\MyGameContent.csproj",
       "projectName": "MyGameContent",
-      "projectPath": "C:\\Users\\user\\Desktop\\урфу\\game\\MyGame\\MyGameContent\\MyGameContent.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\урфу\\game\\Mystery\\MyGame\\MyGameContent\\MyGameContent.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\урфу\\game\\MyGame\\MyGameContent\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\урфу\\game\\Mystery\\MyGame\\MyGameContent\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

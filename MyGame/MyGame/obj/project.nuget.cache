@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0aWMi58nwD+HKmx6SyyuvZoBehEH0/fvEw3z/Yo9cML5IbD+USzVrBvwtQ2eExka/B3+6s9DpF84fAQy/CtniQ==",
+  "dgSpecHash": "X7jqy7w5fi1WLhUO2cAalFyMYlxYRjTb382PSe+17b/CHcHKxR5mY+JI3DL+V45kCZTpnkXI9kVkHgKC2z0Pdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\урфу\\game\\MyGame\\MyGame\\MyGame.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\урфу\\game\\Mystery\\MyGame\\MyGame\\MyGame.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"

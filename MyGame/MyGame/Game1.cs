@@ -12,6 +12,8 @@ namespace MyGame
         private SpriteBatch spriteBatch;
         private BaseObject _player;
         private ManagerInput _managerInput;
+        private ManagerMap _managerMap;
+
 
         public Game1()
         {
@@ -23,6 +25,7 @@ namespace MyGame
             this.graphics.PreferredBackBufferWidth = 320;
             _player = new BaseObject();
             _managerInput = new ManagerInput();
+            _managerMap = new ManagerMap("test");
         }
 
         protected override void Initialize()
@@ -38,6 +41,7 @@ namespace MyGame
             _player.AddComponent(new Sprite(Content.Load<Texture2D>("player_full"), 16, 21, new Vector2(50, 50)));
             _player.AddComponent(new PlayerInput());
             _player.AddComponent(new Animation(16, 16));
+            _managerMap.LoadContent(Content);
         }
 
         protected override void Update(GameTime gameTime)
@@ -47,6 +51,7 @@ namespace MyGame
 
             _managerInput.Update(gameTime.ElapsedGameTime.Milliseconds);
             _player.Update(gameTime.ElapsedGameTime.Milliseconds);
+            _managerMap.Update(gameTime.ElapsedGameTime.Milliseconds);
 
             base.Update(gameTime);
         }
@@ -56,6 +61,7 @@ namespace MyGame
             GraphicsDevice.Clear(new Color(196, 207, 161));
 
             spriteBatch.Begin();
+            _managerMap.Draw(spriteBatch);
             _player.Draw(spriteBatch);
             spriteBatch.End();
 
