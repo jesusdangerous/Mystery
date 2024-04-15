@@ -4,11 +4,13 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/user/Desktop/урфу/game/MyGame/MyGame/Content/../../MyGameContent/player_full.png</File>
-    <File>C:/Users/user/Desktop/урфу/game/MyGame/MyGame/Content/../../player.png</File>
+    <File>C:/Users/user/Desktop/урфу/game/Mystery/MyGame/MyGame/Content/../../MyGameContent/player_full.png</File>
+    <File>C:/Users/user/Desktop/урфу/game/Mystery/MyGame/MyGame/Content/../../overworld_tiles.png</File>
+    <File>C:/Users/user/Desktop/урфу/game/Mystery/MyGame/MyGame/Content/../../player.png</File>
   </SourceFiles>
   <DestFiles>
     <File>player_full.png</File>
+    <File>overworld_tiles.png</File>
     <File>player.png</File>
   </DestFiles>
 </SourceFileCollection>

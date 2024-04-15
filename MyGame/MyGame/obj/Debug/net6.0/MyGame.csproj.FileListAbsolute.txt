@@ -58,3 +58,4 @@ C:\Users\user\Desktop\урфу\game\Mystery\MyGame\MyGame\obj\Debug\net6.0\MyGam
 C:\Users\user\Desktop\урфу\game\Mystery\MyGame\MyGame\obj\Debug\net6.0\MyGame.genruntimeconfig.cache
 C:\Users\user\Desktop\урфу\game\Mystery\MyGame\MyGame\obj\Debug\net6.0\ref\MyGame.dll
 C:\Users\user\Desktop\урфу\game\Mystery\MyGame\MyGame\bin\Debug\net6.0\Content\test_map.xml
+C:\Users\user\Desktop\урфу\game\Mystery\MyGame\MyGame\bin\Debug\net6.0\Content\overworld_tiles.xnb

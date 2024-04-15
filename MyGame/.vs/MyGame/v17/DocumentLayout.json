@@ -3,27 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|c:\\users\\user\\desktop\\\u0443\u0440\u0444\u0443\\game\\mystery\\mygame\\mygame\\xmlserialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|solutionrelative:mygame\\xmlserialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|c:\\users\\user\\desktop\\\u0443\u0440\u0444\u0443\\game\\mystery\\mygame\\mygame\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|solutionrelative:mygame\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|c:\\users\\user\\desktop\\\u0443\u0440\u0444\u0443\\game\\mystery\\mygame\\mygame\\content\\test_map.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|solutionrelative:mygame\\content\\test_map.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|c:\\users\\user\\desktop\\\u0443\u0440\u0444\u0443\\game\\mystery\\mygame\\mygame\\map\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\mygame\\map\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|solutionrelative:mygame\\map\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|c:\\users\\user\\desktop\\\u0443\u0440\u0444\u0443\\game\\mystery\\mygame\\mygame\\manager\\managermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|solutionrelative:mygame\\manager\\managermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|c:\\users\\user\\desktop\\\u0443\u0440\u0444\u0443\\game\\mystery\\mygame\\mygame\\map\\tileframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|solutionrelative:mygame\\map\\tileframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|c:\\users\\user\\desktop\\\u0443\u0440\u0444\u0443\\game\\mystery\\mygame\\mygame\\components\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\mygame\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|solutionrelative:mygame\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\mygame\\components\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|solutionrelative:mygame\\components\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -50,11 +46,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_map.xml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\MyGame\\Content\\test_map.xml",
+              "RelativeDocumentMoniker": "MyGame\\Content\\test_map.xml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\MyGame\\Content\\test_map.xml",
+              "RelativeToolTip": "MyGame\\Content\\test_map.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-15T10:09:27.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TileFrame.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\MyGame\\Map\\TileFrame.cs",
+              "RelativeDocumentMoniker": "MyGame\\Map\\TileFrame.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\MyGame\\Map\\TileFrame.cs",
+              "RelativeToolTip": "MyGame\\Map\\TileFrame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:34:14.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Tile.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\MyGame\\Map\\Tile.cs",
+              "RelativeDocumentMoniker": "MyGame\\Map\\Tile.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\MyGame\\Map\\Tile.cs",
+              "RelativeToolTip": "MyGame\\Map\\Tile.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAADgv0YAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T13:39:20.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Game1.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\MyGame\\Game1.cs",
               "RelativeDocumentMoniker": "MyGame\\Game1.cs",
@@ -67,59 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "test_map.xml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\MyGame\\Content\\test_map.xml",
-              "RelativeDocumentMoniker": "MyGame\\Content\\test_map.xml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\MyGame\\Content\\test_map.xml",
-              "RelativeToolTip": "MyGame\\Content\\test_map.xml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-04-14T14:15:06.022Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "XMLSerialization.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\MyGame\\XMLSerialization.cs",
-              "RelativeDocumentMoniker": "MyGame\\XMLSerialization.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\MyGame\\XMLSerialization.cs",
-              "RelativeToolTip": "MyGame\\XMLSerialization.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T13:54:55.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ManagerMap.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\MyGame\\Manager\\ManagerMap.cs",
-              "RelativeDocumentMoniker": "MyGame\\Manager\\ManagerMap.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\MyGame\\Manager\\ManagerMap.cs",
-              "RelativeToolTip": "MyGame\\Manager\\ManagerMap.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAADYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T13:51:19.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Tile.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\MyGame\\Map\\Tile.cs",
-              "RelativeDocumentMoniker": "MyGame\\Map\\Tile.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\MyGame\\Map\\Tile.cs",
-              "RelativeToolTip": "MyGame\\Map\\Tile.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAADYAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T13:39:20.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Animation.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\MyGame\\Components\\Animation.cs",
               "RelativeDocumentMoniker": "MyGame\\Components\\Animation.cs",
@@ -132,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Enums.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\MyGame\\Enums.cs",
               "RelativeDocumentMoniker": "MyGame\\Enums.cs",
@@ -140,12 +123,11 @@
               "RelativeToolTip": "MyGame\\Enums.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T10:36:35.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-14T10:36:35.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Component.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\MyGame\\Component.cs",
               "RelativeDocumentMoniker": "MyGame\\Component.cs",
@@ -157,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "PlayerInput.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\MyGame\\Components\\PlayerInput.cs",
               "RelativeDocumentMoniker": "MyGame\\Components\\PlayerInput.cs",
@@ -169,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "ManagerInput.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\MyGame\\Manager\\ManagerInput.cs",
               "RelativeDocumentMoniker": "MyGame\\Manager\\ManagerInput.cs",
