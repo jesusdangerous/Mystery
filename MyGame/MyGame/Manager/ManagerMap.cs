@@ -13,11 +13,13 @@ namespace MyGame.Manager
     class ManagerMap
     {
         private List<Tile> _tiles;
+        private List<TileCollision> _tileCollisions;
         private string _mapName;
 
         public ManagerMap(string mapName)
         {
             _tiles = new List<Tile>();
+            _tileCollisions = new List<TileCollision>();
             _mapName = mapName;
         }
 
@@ -34,6 +36,13 @@ namespace MyGame.Manager
                 {
                     tile.LoadContent(content);
                 }
+            }
+            
+            var tileCollision = new List<TileCollision>();
+            XMLSerialization.LoadXML(out tileCollision, string.Format("Content\\{0}_map_collision.xml", _mapName));
+            if (tileCollision != null)
+            {
+                _tileCollisions = tileCollision;
             }
         }
 
@@ -53,5 +62,9 @@ namespace MyGame.Manager
             }
         }
 
+        public bool CheckCollision(Rectangle rectangle)
+        {
+            return _tileCollisions.Any(tile => tile.Intersect(rectangle));
+        }
     }
 }

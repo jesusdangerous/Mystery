@@ -41,7 +41,7 @@ namespace MyGame
             _player.AddComponent(new Sprite(Content.Load<Texture2D>("player_full"), 16, 21, new Vector2(50, 50)));
             _player.AddComponent(new PlayerInput());
             _player.AddComponent(new Animation(16, 16));
-            _managerMap.LoadContent(Content);
+            _player.AddComponent(new Collision(_managerMap));
         }
 
         protected override void Update(GameTime gameTime)

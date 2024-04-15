@@ -11,16 +11,16 @@ namespace MyGame.Components
     class Sprite : Component
     {
         private Texture2D _texture;
-        private int _width;
-        private int _height;
-        private Vector2 _position;
+        public int Width {  get; private set; }
+        public int Height {  get; private set; }
+        public Vector2 Position {  get; private set; }
 
         public Sprite(Texture2D texture, int width, int height, Vector2 position)
         {
             _texture = texture;
-            _width = width;
-            _height = height;
-            _position = position;
+            Width = width;
+            Height = height;
+            Position = position;
         } 
 
         public override ComponentType ComponentType
@@ -33,10 +33,10 @@ namespace MyGame.Components
             var animation = GetComponent<Animation>(ComponentType.Animation);
             if (animation != null)
             {
-                spriteBatch.Draw(_texture, new Rectangle((int)_position.X, (int)_position.Y, _width, _height), animation.TextureRectangle, Color.White);
+                spriteBatch.Draw(_texture, new Rectangle((int)Position.X, (int)Position.Y, Width, Height), animation.TextureRectangle, Color.White);
             }
             else
-                spriteBatch.Draw(_texture, new Rectangle((int)_position.X, (int)_position.Y, _width, _height), Color.White);
+                spriteBatch.Draw(_texture, new Rectangle((int)Position.X, (int)Position.Y, Width, Height), Color.White);
         }
 
         public override void Update(double gameTime)
@@ -46,7 +46,7 @@ namespace MyGame.Components
 
         public void Move(float x, float y)
         {
-            _position = new Vector2(_position.X + x, _position.Y + y);
+            Position = new Vector2(Position.X + x, Position.Y + y);
             var animation = GetComponent<Animation>(ComponentType.Animation);
             if (animation == null)
                 return;
