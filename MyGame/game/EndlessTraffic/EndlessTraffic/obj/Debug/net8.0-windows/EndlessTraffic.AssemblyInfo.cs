@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EndlessTraffic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bea5647569443f6bf016916b668e2d13e3268f77")]
 [assembly: System.Reflection.AssemblyProductAttribute("EndlessTraffic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EndlessTraffic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

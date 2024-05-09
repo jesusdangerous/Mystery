@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\game\\EndlessTraffic\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\game\\EndlessTraffic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16499436-6EBA-4441-8F41-2D64D565C2CA}|EndlessTraffic\\EndlessTraffic.csproj|c:\\users\\user\\desktop\\game\\endlesstraffic\\endlesstraffic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16499436-6EBA-4441-8F41-2D64D565C2CA}|EndlessTraffic\\EndlessTraffic.csproj|C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\game\\EndlessTraffic\\endlesstraffic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16499436-6EBA-4441-8F41-2D64D565C2CA}|EndlessTraffic\\EndlessTraffic.csproj|solutionrelative:endlesstraffic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16499436-6EBA-4441-8F41-2D64D565C2CA}|EndlessTraffic\\EndlessTraffic.csproj|c:\\users\\user\\desktop\\\u0443\u0440\u0444\u0443\\game\\mystery\\mygame\\game\\endlesstraffic\\endlesstraffic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16499436-6EBA-4441-8F41-2D64D565C2CA}|EndlessTraffic\\EndlessTraffic.csproj|solutionrelative:endlesstraffic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16499436-6EBA-4441-8F41-2D64D565C2CA}|EndlessTraffic\\EndlessTraffic.csproj|c:\\users\\user\\desktop\\game\\endlesstraffic\\endlesstraffic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{16499436-6EBA-4441-8F41-2D64D565C2CA}|EndlessTraffic\\EndlessTraffic.csproj|solutionrelative:endlesstraffic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{16499436-6EBA-4441-8F41-2D64D565C2CA}|EndlessTraffic\\EndlessTraffic.csproj|c:\\users\\user\\desktop\\\u0443\u0440\u0444\u0443\\game\\mystery\\mygame\\game\\endlesstraffic\\endlesstraffic\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16499436-6EBA-4441-8F41-2D64D565C2CA}|EndlessTraffic\\EndlessTraffic.csproj|solutionrelative:endlesstraffic\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,28 +22,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\game\\EndlessTraffic\\EndlessTraffic\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\game\\EndlessTraffic\\EndlessTraffic\\Form1.cs",
               "RelativeDocumentMoniker": "EndlessTraffic\\Form1.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\game\\EndlessTraffic\\EndlessTraffic\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\game\\EndlessTraffic\\EndlessTraffic\\Form1.cs",
               "RelativeToolTip": "EndlessTraffic\\Form1.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAqwD4AAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T10:22:09.673Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\game\\EndlessTraffic\\EndlessTraffic\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "EndlessTraffic\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\game\\EndlessTraffic\\EndlessTraffic\\Form1.Designer.cs",
+              "RelativeToolTip": "EndlessTraffic\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:09:39.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\game\\EndlessTraffic\\EndlessTraffic\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\game\\EndlessTraffic\\EndlessTraffic\\Form1.cs",
               "RelativeDocumentMoniker": "EndlessTraffic\\Form1.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\game\\EndlessTraffic\\EndlessTraffic\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\game\\EndlessTraffic\\EndlessTraffic\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "RelativeToolTip": "EndlessTraffic\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T09:53:28.142Z",

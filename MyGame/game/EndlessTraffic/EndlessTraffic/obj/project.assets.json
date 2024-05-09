@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\game\\EndlessTraffic\\EndlessTraffic\\EndlessTraffic.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\урфу\\game\\Mystery\\MyGame\\game\\EndlessTraffic\\EndlessTraffic\\EndlessTraffic.csproj",
       "projectName": "EndlessTraffic",
-      "projectPath": "C:\\Users\\user\\Desktop\\game\\EndlessTraffic\\EndlessTraffic\\EndlessTraffic.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\урфу\\game\\Mystery\\MyGame\\game\\EndlessTraffic\\EndlessTraffic\\EndlessTraffic.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\game\\EndlessTraffic\\EndlessTraffic\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\урфу\\game\\Mystery\\MyGame\\game\\EndlessTraffic\\EndlessTraffic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
