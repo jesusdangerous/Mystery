@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\mygame\\components\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|c:\\users\\user\\desktop\\\u0443\u0440\u0444\u0443\\game\\mystery\\mygame\\mygame\\components\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|solutionrelative:mygame\\components\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|c:\\users\\user\\desktop\\\u0443\u0440\u0444\u0443\\game\\mystery\\mygame\\mygame\\manager\\managerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\mygame\\manager\\managerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|solutionrelative:mygame\\manager\\managerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|c:\\users\\user\\desktop\\\u0443\u0440\u0444\u0443\\game\\mystery\\mygame\\mygame\\components\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\mygame\\components\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|solutionrelative:mygame\\components\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|c:\\users\\user\\desktop\\\u0443\u0440\u0444\u0443\\game\\mystery\\mygame\\mygame\\content\\test_map_collision.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\mygame\\content\\test_map_collision.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|solutionrelative:mygame\\content\\test_map_collision.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
@@ -23,15 +23,15 @@
       "RelativeMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|solutionrelative:mygame\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|c:\\users\\user\\desktop\\\u0443\u0440\u0444\u0443\\game\\mystery\\mygame\\mygame\\components\\collision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\mygame\\components\\collision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|solutionrelative:mygame\\components\\collision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|c:\\users\\user\\desktop\\\u0443\u0440\u0444\u0443\\game\\mystery\\mygame\\mygame\\map\\tilecollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\mygame\\map\\tilecollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|solutionrelative:mygame\\map\\tilecollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|c:\\users\\user\\desktop\\\u0443\u0440\u0444\u0443\\game\\mystery\\mygame\\mygame\\manager\\managermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\mygame\\manager\\managermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F03C66BF-A72B-40A0-9BDD-652F2DA121FE}|MyGame\\MyGame.csproj|solutionrelative:mygame\\manager\\managermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,8 +54,7 @@
               "RelativeToolTip": "MyGame\\Content\\test_map_collision.xml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-04-15T10:57:22.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T10:57:22.467Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "MyGame\\Components\\Sprite.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T10:49:18.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T10:49:18.083Z"
             },
             {
               "$type": "Document",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "MyGame\\Manager\\ManagerInput.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T10:45:38.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T10:45:38.563Z"
             },
             {
               "$type": "Document",
@@ -93,8 +90,7 @@
               "RelativeToolTip": "MyGame\\Manager\\ManagerMap.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T10:40:26.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T10:40:26.101Z"
             },
             {
               "$type": "Document",
@@ -106,8 +102,7 @@
               "RelativeToolTip": "MyGame\\Components\\Collision.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T10:36:14.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T10:36:14.897Z"
             },
             {
               "$type": "Document",
@@ -119,8 +114,7 @@
               "RelativeToolTip": "MyGame\\Map\\TileCollision.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T10:22:06.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T10:22:06.647Z"
             },
             {
               "$type": "Document",
@@ -132,8 +126,7 @@
               "RelativeToolTip": "MyGame\\Game1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T14:24:08.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-14T14:24:08.762Z"
             },
             {
               "$type": "Document",
@@ -143,7 +136,7 @@
               "RelativeDocumentMoniker": "MyGame\\Components\\PlayerInput.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0440\u0444\u0443\\game\\Mystery\\MyGame\\MyGame\\Components\\PlayerInput.cs",
               "RelativeToolTip": "MyGame\\Components\\PlayerInput.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAAADAAAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-14T09:28:05.33Z",
               "EditorCaption": ""
