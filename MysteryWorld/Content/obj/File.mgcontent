@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/user/Desktop/revanche-dungeon-game-master (5)/revanche-dungeon-game-master (3)/revanche-dungeon-game-master/revanche-dungeon-game-master/Revanche/MysteryWorld/Content/File.spritefont</SourceFile>
+  <SourceTime>2024-05-26T10:40:58+05:00</SourceTime>
+  <DestFile>C:/Users/user/Desktop/revanche-dungeon-game-master (5)/revanche-dungeon-game-master (3)/revanche-dungeon-game-master/revanche-dungeon-game-master/Revanche/MysteryWorld/Content/bin/File.xnb</DestFile>
+  <DestTime>2024-05-29T23:51:41.0765984+05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-07-26T16:44:56+05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-07-26T16:44:56+05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

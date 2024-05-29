@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MysteryWorld</id>
+    <version>1.0.0</version>
+    <authors>MysteryWorld</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="MonoGame.Content.Builder.Task" version="3.8.1.303" exclude="Build,Analyzers" />
+        <dependency id="MonoGame.Framework.DesktopGL" version="3.8.1.303" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/AnimationSpriteSheet.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/background2New2.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/button_hud.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/continueButtonENG.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/exit.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/File.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/font.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/FramecounterFont.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/gameOver.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/gameWin.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/lifebar.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/menu.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/newGame.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/soundbar.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/soundbar2.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/sprite_sheet.xnb" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\bin\Debug\net6.0\MysteryWorld.runtimeconfig.json" target="lib\net6.0\MysteryWorld.runtimeconfig.json" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\bin\Debug\net6.0\MysteryWorld.dll" target="lib\net6.0\MysteryWorld.dll" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\AnimationSpriteSheet.xnb" target="content\Content\bin\DesktopGL\Content\AnimationSpriteSheet.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\AnimationSpriteSheet.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\AnimationSpriteSheet.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\background2New2.xnb" target="content\Content\bin\DesktopGL\Content\background2New2.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\background2New2.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\background2New2.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\button_hud.xnb" target="content\Content\bin\DesktopGL\Content\button_hud.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\button_hud.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\button_hud.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\continueButtonENG.xnb" target="content\Content\bin\DesktopGL\Content\continueButtonENG.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\continueButtonENG.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\continueButtonENG.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\exit.xnb" target="content\Content\bin\DesktopGL\Content\exit.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\exit.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\exit.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\File.xnb" target="content\Content\bin\DesktopGL\Content\File.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\File.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\File.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\font.xnb" target="content\Content\bin\DesktopGL\Content\font.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\font.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\font.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\FramecounterFont.xnb" target="content\Content\bin\DesktopGL\Content\FramecounterFont.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\FramecounterFont.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\FramecounterFont.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\gameOver.xnb" target="content\Content\bin\DesktopGL\Content\gameOver.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\gameOver.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\gameOver.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\gameWin.xnb" target="content\Content\bin\DesktopGL\Content\gameWin.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\gameWin.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\gameWin.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\lifebar.xnb" target="content\Content\bin\DesktopGL\Content\lifebar.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\lifebar.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\lifebar.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\menu.xnb" target="content\Content\bin\DesktopGL\Content\menu.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\menu.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\menu.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\newGame.xnb" target="content\Content\bin\DesktopGL\Content\newGame.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\newGame.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\newGame.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\soundbar.xnb" target="content\Content\bin\DesktopGL\Content\soundbar.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\soundbar.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\soundbar.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\soundbar2.xnb" target="content\Content\bin\DesktopGL\Content\soundbar2.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\soundbar2.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\soundbar2.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\sprite_sheet.xnb" target="content\Content\bin\DesktopGL\Content\sprite_sheet.xnb" />
+    <file src="C:\Users\user\Desktop\revanche-dungeon-game-master (5)\revanche-dungeon-game-master (3)\revanche-dungeon-game-master\revanche-dungeon-game-master\Revanche\MysteryWorld\Content\bin\DesktopGL\Content\sprite_sheet.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\sprite_sheet.xnb" />
+  </files>
+</package>

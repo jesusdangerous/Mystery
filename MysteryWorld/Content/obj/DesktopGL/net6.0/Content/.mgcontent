@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/user/Desktop/урфу/game/Mystery/MysteryWorld/Content/AnimationSpriteSheet.png</File>
+    <File>C:/Users/user/Desktop/урфу/game/Mystery/MysteryWorld/Content/background2New2.png</File>
+    <File>C:/Users/user/Desktop/урфу/game/Mystery/MysteryWorld/Content/button_hud.png</File>
+    <File>C:/Users/user/Desktop/урфу/game/Mystery/MysteryWorld/Content/continueButtonENG.png</File>
+    <File>C:/Users/user/Desktop/урфу/game/Mystery/MysteryWorld/Content/exit.png</File>
+    <File>C:/Users/user/Desktop/урфу/game/Mystery/MysteryWorld/Content/File.spritefont</File>
+    <File>C:/Users/user/Desktop/урфу/game/Mystery/MysteryWorld/Content/font.spritefont</File>
+    <File>C:/Users/user/Desktop/урфу/game/Mystery/MysteryWorld/Content/FramecounterFont.spritefont</File>
+    <File>C:/Users/user/Desktop/урфу/game/Mystery/MysteryWorld/Content/gameOver.png</File>
+    <File>C:/Users/user/Desktop/урфу/game/Mystery/MysteryWorld/Content/gameWin.png</File>
+    <File>C:/Users/user/Desktop/урфу/game/Mystery/MysteryWorld/Content/lifebar.png</File>
+    <File>C:/Users/user/Desktop/урфу/game/Mystery/MysteryWorld/Content/menu.png</File>
+    <File>C:/Users/user/Desktop/урфу/game/Mystery/MysteryWorld/Content/newGame.png</File>
+    <File>C:/Users/user/Desktop/урфу/game/Mystery/MysteryWorld/Content/soundbar.png</File>
+    <File>C:/Users/user/Desktop/урфу/game/Mystery/MysteryWorld/Content/soundbar2.png</File>
+    <File>C:/Users/user/Desktop/урфу/game/Mystery/MysteryWorld/Content/sprite_sheet.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
